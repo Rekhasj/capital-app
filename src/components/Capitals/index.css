@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.home-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.display-container {
+  background-color: #f8fafc;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.country-name {
+  font-size: 20px;
+  color: #000000;
+}
+.country-container {
+  display: flex;
+  align-self: flex-start;
+  margin-left: 100px;
+}
